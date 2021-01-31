@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+2WX6KjIM/iGRe2yteJFWogfU9vKdE7G88eYYquNc5l0iYpNw4fceSFXN0yQ4gVN9vsfCu0i5tlJQVuWyQY8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GEOS\\source\\repos\\FinalProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GEOS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GEOS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
